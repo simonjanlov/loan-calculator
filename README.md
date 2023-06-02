@@ -1,4 +1,4 @@
-# loan calculator
+# Loan calculator
 Command line application for loan calculation
 
 The program allows the user to calculate differentiated or annuity payments, overpayment, the number of payments or the loan principal.
